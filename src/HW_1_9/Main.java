@@ -1,3 +1,4 @@
+package HW_1_9;
 
 public class Main {
    public static void main(String[] args) {
